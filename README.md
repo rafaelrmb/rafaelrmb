@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a full-stack web development student who's currently diving into the world of React and Node.js.I'm passionate about coding and creating solutions that make a difference. 
 
-When I'm not coding, you can usually find me hanging out with my awesome friends and family, playing video games, or exploring new tech gadgets.
+When I'm not coding, you can usually find me hanging out with my awesome friends and family, playing video games, or watching movies.
 
 I'm always down to collaborate and chat about tech, games and movies so don't hesitate to reach out and say hi! Let's make some awesome stuff together.
 
@@ -24,8 +24,8 @@ I'm always down to collaborate and chat about tech, games and movies so don't he
 </br>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rafaelrmb&theme=transparent" />
-    <img src="https://streak-stats.demolab.com?user=rafaelrmb&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rafaelrmb&theme=transparent&mode=weekly" />
+    <img src="https://streak-stats.demolab.com?user=rafaelrmb&theme=default&mode=weekly" />
   </picture>
 </p>
 
