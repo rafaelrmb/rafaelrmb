@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a full-stack web development student who's currently diving into the world of React and Node.js. I'm passionate about coding and creating solutions that make a difference. 
 
-When I'm not coding, you can usually find me hanging out with my awesome friends and family, playing video games, or watching movies.
+When I'm not coding, you can usually find me hanging out with my friends and family, playing video games, or watching movies.
 
 I'm always down to collaborate and chat about tech, games and movies so don't hesitate to reach out and say hi! Let's make some awesome stuff together.
 
