@@ -5,7 +5,7 @@ When I'm not coding, you can usually find me hanging out with my friends and fam
 
 I'm always down to collaborate and chat about tech, games and movies so don't hesitate to reach out and say hi! Let's make some awesome stuff together.
 
-🌱 I’m currently learning ReactJS, Node.js, MongoDB.
+🌱 I’m currently learning Angular, ReactJS and Node.js.
 
 ## 🛠 Skills
 <div>
