@@ -1,8 +1,8 @@
 ## Who am I?
 ### Hi there 👋
-A full-stack web development student who's currently diving into the world of React and Angular. I'm passionate about coding and sharing knowledge!
+A Frontend Web Developer who's currently diving into the world of React and Angular. I'm passionate about coding and sharing knowledge!
 
-Always down to collaborate and chat about tech, games and movies so don't hesitate to reach out and say hi! Let's make some awesome stuff together.
+Always down to collaborate and chat about tech, games and movies so don't hesitate to reach out and say hi!
 
 🌱 I’m currently learning Angular, ReactJS and Node.js.
 
