@@ -4,7 +4,7 @@ A Frontend Web Developer who's currently diving into the world of Angular and Ja
 
 Always down to collaborate and chat about tech, games and movies so don't hesitate to reach out and say hi!
 
-🌱 I’m currently learning Angular and Java!
+🌱 I’m currently learning Backend Development with Python and Go!
 
 ## 🛠 Skills
 <div>
