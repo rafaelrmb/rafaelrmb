@@ -2,7 +2,7 @@
 ### Hi there 👋
 A Frontend Web Developer and aspiring Full Stack Developer. 
 
-🌱 I’m currently learning Backend Development with Python and Go!
+🌱 I’m currently learning Backend Development
 
 ## 🛠 Skills
 <div>
